@@ -1,0 +1,5 @@
+openfunction() {
+    xdg-open $2 $1
+}
+alias open=openfunction
+
